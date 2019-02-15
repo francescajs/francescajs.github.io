@@ -8,7 +8,7 @@ import './Projects.css';
 class Projects extends Component {
     render() {
         return (
-            <div>
+            <div className="view">
                 <div className="pheader">
                     <h1>Projects</h1>
                     <hr width="25%"/>
