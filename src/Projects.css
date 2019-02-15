@@ -1,0 +1,37 @@
+.view {
+    width: 100vw;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.pheader {
+    margin: 100px;
+    font-family: 'Bungee Hairline';
+    font-weight: 600;
+    border-bottom: 2px black solid;
+    display: inline-block;
+}
+
+.box {
+    width: 70%;
+    margin-left:100px;
+    display: flex;
+}
+
+.projbox {
+    font-family: 'Bubbler One', sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    align-content: center;
+    block-size: 200px;
+}
+
+.projbox img {
+    max-width: 200px;
+    max-height: 100px;
+}
+
+.projbox p {
+   text-align: center;
+}
