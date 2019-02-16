@@ -8,10 +8,9 @@ import './Projects.css';
 class Projects extends Component {
     render() {
         return (
-            <div className="view">
+            <div className="view" id="projects">
                 <div className="pheader">
                     <h1>Projects</h1>
-                    <hr width="25%"/>
                 </div>
                 <div className="box">
                     <ProjectsBox scsht={mtg} description="MIND THE GAP: A web-based game with javascript and other web dev components that aims to inform users of the gender wage gap!" />

@@ -9,7 +9,7 @@ import './Experiences.css';
 class Experiences extends Component {
     render() {
         return (
-            <div className="view">
+            <div className="view" id="experiences">
                 <div className="pheader">
                     <h1>Experiences</h1>
                 </div>

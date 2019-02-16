@@ -3,13 +3,14 @@ import fb from './assets/fb-mark.png';
 import gh from './assets/GitHub-Mark.png';
 import linked from './assets/linkedin-mark.png';
 import resume from './assets/resume-mark.png';
+import PDF from './assets/ResumeP.pdf';
 import ig from './assets/instagram-icon.png';
 import './AboutMe.css';
 
 class AboutMe extends Component {
     render() {
         return (
-            <div className="view">
+            <div className="view" id="aboutme">
                 <div className="pheader">
                     <h1>About Me</h1>
                 </div>
@@ -28,15 +29,15 @@ class AboutMe extends Component {
                 <div className="sns-block">
                     <div id="txt"><p>Let's connect!</p></div>
                     <ul>
-                        <a href="https://www.linkedin.com/in/francescajsong/"> 
+                        <a href="https://www.linkedin.com/in/francescajsong/" target="_blank"> 
                             <img src={linked} className="sns-mark" alt="logo"/></a>
-                        <a href="https://github.com/francescajs"> 
+                        <a href="https://github.com/francescajs" target="_blank"> 
                             <img src={gh} className="sns-mark" alt="logo"/></a>
-                        <a href="https://www.facebook.com/francescajsong"> 
+                        <a href="https://www.facebook.com/francescajsong" target="_blank"> 
                             <img src={fb} className="sns-mark" alt="logo"/></a>
-                        <a href="https://www.instagram.com/franchestnut_/">     
+                        <a href="https://www.instagram.com/franchestnut_/" target="_blank">     
                             <img src={ig} className="sns-mark" alt="logo"/></a>
-                        <a href="../assets/ResumeP.pdf">
+                        <a href= {PDF} target="_blank">
                             <img src={resume} className="sns-mark" alt="logo"/></a>
                     </ul>
                 </div>
