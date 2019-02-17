@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/tapin2.7da0ffa0.webp"
   },
   {
-    "revision": "fc14af501e1ae25e2edb",
-    "url": "/static/css/main.ad51fe34.chunk.css"
+    "revision": "55aa6373fb532418f7aa",
+    "url": "/static/css/main.3ba2b5ac.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/codebaselogo.c20eeb3e.png"
   },
   {
-    "revision": "fc14af501e1ae25e2edb",
-    "url": "/static/js/main.fc14af50.chunk.js"
+    "revision": "55aa6373fb532418f7aa",
+    "url": "/static/js/main.55aa6373.chunk.js"
   },
   {
     "revision": "a502f29da89dc26a9a7c9dc17888bd0c",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/homepfran2.529088e0.jpg"
   },
   {
-    "revision": "830a15d30ec622f83117f1e7577d684e",
+    "revision": "689b6f96eb4671619a15d19501c5a39b",
     "url": "/index.html"
   }
 ];
