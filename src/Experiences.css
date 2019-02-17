@@ -18,6 +18,24 @@
     display: flex;
 }
 
+.boxone{
+    width: 40%;
+    margin-left: 100px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+.boxtwo {
+    width: 40%;
+    margin-left: 100px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
 .expbox {
     font-family: 'Bubbler One', sans-serif;
     margin-right: 20px;
