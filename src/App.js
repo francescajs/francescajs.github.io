@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 // import scrollToComponent from 'react-scroll-to-component';
+//import { Link, animateScroll as scroll } from "react-scroll";
 import './App.css';
 import AboutMe from './AboutMe.js';
 import Experiences from './Experiences.js';
