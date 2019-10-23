@@ -19,17 +19,21 @@
     display: flex;
 }
 
-.boxone {
+.boxone{
     width: 40%;
-    margin-left:100px;
+    margin-left: 100px;
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-direction: column;
     flex-direction: column;
 }
 
 .boxtwo {
     width: 40%;
-    margin-left:100px;
+    margin-left: 100px;
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-direction: column;
     flex-direction: column;
 }
 
