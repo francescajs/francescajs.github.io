@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "7da0ffa0fed39d1d2272b95341bf68f4",
-    "url": "/static/media/tapin2.7da0ffa0.webp"
+    "revision": "00d1bc6e5b670d97e954",
+    "url": "/static/css/main.8c77feec.chunk.css"
   },
   {
-    "revision": "0cd620cb257f3f0840ae",
-    "url": "/static/css/main.4bada4c0.chunk.css"
+    "revision": "00d1bc6e5b670d97e954",
+    "url": "/static/js/main.00d1bc6e.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "4e3ee97c85ec4c053ff1",
-    "url": "/static/js/2.4e3ee97c.chunk.js"
+    "revision": "ff9b85f81b49b70a994d",
+    "url": "/static/js/2.ff9b85f8.chunk.js"
   },
   {
-    "revision": "358923beda36e420922e07a7d121c3b3",
-    "url": "/static/media/ResumeP.358923be.pdf"
+    "revision": "89bab01a2db9301bef0b33110c5d5977",
+    "url": "/static/media/FrancescaSong_Resume_2020.89bab01a.pdf"
   },
   {
     "revision": "addb526da3c02c4597e8188e2ae9599d",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/codebaselogo.c20eeb3e.png"
   },
   {
-    "revision": "0cd620cb257f3f0840ae",
-    "url": "/static/js/main.0cd620cb.chunk.js"
+    "revision": "7da0ffa0fed39d1d2272b95341bf68f4",
+    "url": "/static/media/tapin2.7da0ffa0.webp"
   },
   {
     "revision": "a502f29da89dc26a9a7c9dc17888bd0c",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/homepfran2.529088e0.jpg"
   },
   {
-    "revision": "de9e09157c0956a2d8521a6b0efbd71e",
+    "revision": "1cc49d5d15cc902a2499ba8e2d155531",
     "url": "/index.html"
   }
 ];
