@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "00d1bc6e5b670d97e954",
+    "revision": "39c635ba4b9da1517243",
     "url": "/static/css/main.8c77feec.chunk.css"
   },
   {
-    "revision": "00d1bc6e5b670d97e954",
-    "url": "/static/js/main.00d1bc6e.chunk.js"
+    "revision": "39c635ba4b9da1517243",
+    "url": "/static/js/main.39c635ba.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/2.ff9b85f8.chunk.js"
   },
   {
-    "revision": "89bab01a2db9301bef0b33110c5d5977",
-    "url": "/static/media/FrancescaSong_Resume_2020.89bab01a.pdf"
+    "revision": "3c9b4288a95613e37d9eac1ccd2e4adf",
+    "url": "/static/media/Resume2020.3c9b4288.pdf"
   },
   {
     "revision": "addb526da3c02c4597e8188e2ae9599d",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/homepfran2.529088e0.jpg"
   },
   {
-    "revision": "1cc49d5d15cc902a2499ba8e2d155531",
+    "revision": "c61db9d265744370a27aee76b1fed7d9",
     "url": "/index.html"
   }
 ];
