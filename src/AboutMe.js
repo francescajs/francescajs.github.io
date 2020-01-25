@@ -3,7 +3,7 @@ import fb from './assets/fb-mark.png';
 import gh from './assets/GitHub-Mark.png';
 import linked from './assets/linkedin-mark.png';
 import resume from './assets/resume-mark.png';
-import PDF from './assets/FrancescaSong_Resume_2020.pdf';
+import PDF from './assets/Resume2020.pdf';
 import ig from './assets/instagram-icon.png';
 import './AboutMe.css';
 
